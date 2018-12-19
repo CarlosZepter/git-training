@@ -7,3 +7,5 @@ Edição numero 1
 Edição numero 2
 
 Uma mensagem aleatório apenas para adicionar uma linha no arquivo.
+
+Edição para subir para o Git-Hub #
